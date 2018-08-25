@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 3
+date: 2014-07-16
+img: ghsh1.jpg
+img1: ghsh2.jpg
+img2: ghsh3.png
+alt: Graphic
+client: Pfizer Get Healthy Stay Healthy
+category: Graphic Design
+description: An infographic designed for the Get Healthy Stay Healthy campaign. Below are the first draft and eventually the final design that is shown on the site for understanding cholesterol levels and heart disease. 
+
+---

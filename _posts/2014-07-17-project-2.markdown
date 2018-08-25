@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 2
+date: 2014-07-17
+img: pt1.jpg
+img1: pt2.jpg
+img2: pt3.jpg
+alt: Architecture
+client: IS Progress Together
+category: Information Architecture
+description: Sitemap and user flows created for Progress Together, an application designed for schizophrenic patients and their support circle of family, friends and health care providers. The application was centered around daily goals and achievements with the addition of accountability from your personal team. 
+
+---

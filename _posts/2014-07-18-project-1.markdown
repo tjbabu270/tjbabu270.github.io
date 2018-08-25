@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 1
+date: 2014-07-18
+img: zyrtec1.jpg
+img1: zyrtec2.jpg
+img2: zyrtec3.jpg
+alt: UX
+client: Zyrtec
+category: User Experience
+description: A conceptual wireframe for a Zyrtec comparison landing page with scrolling design, which was later changed to a drag and drop interactive component to compare Zyrtec to its direct competitors.
+
+---
